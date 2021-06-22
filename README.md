@@ -1,9 +1,18 @@
-# Hello World
-This is a plugin that allows you to do Hello World anytime you want.
+# Hello World <3
+コマンドラインにいつでも`Hello World <3`と表示出来るようにするプラグインです。
+
+# Requiament
+初心
 
 # Usage
+コマンド `:SayHello`か<Plug>(say-hello)をマップして実行してください。
 ```vim
 :SayHello
-nmap <Plug>(helloworld)
 ```
 
+```
+nmap <Plug>(say-hello)
+```
+
+# License
+MIT
