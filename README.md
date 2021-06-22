@@ -5,7 +5,7 @@
 初心
 
 # Usage
-コマンド `:SayHello`か<Plug>(say-hello)をマップして実行してください。
+コマンド `:SayHello`か`<Plug>(say-hello)`をマップして実行してください。
 ```vim
 :SayHello
 ```
