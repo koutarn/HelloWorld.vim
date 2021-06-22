@@ -1,4 +1,5 @@
 # Hello World <3
+![helloworld](./img/screenshot.png)
 コマンドラインにいつでも`Hello World <3`と表示出来るようにするプラグインです。
 
 # Requiament
