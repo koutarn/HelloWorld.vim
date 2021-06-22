@@ -5,7 +5,7 @@ endif
 let g:loaded_helloworld_vim = 1
 
 command SayHello call helloworld#do()
-nnoremap <silent> <plug>(hello-world) :SayHello<CR>
+nnoremap <silent> <plug>(say-hello) :SayHello<CR>
 
 let s:save_cpo = &cpo
 set cpo&vim

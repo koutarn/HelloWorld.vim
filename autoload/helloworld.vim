@@ -1,7 +1,7 @@
 let s:save_cpo = &cpo
 set cpo&vim
 
-function! helloworld#do()
+function! helloworld#do() abort
     echo 'Hello World <3'
 endfunction
 
